@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CATHA</string>
+    <string name="gi_25000">Giá: 25000 đ</string>
+    <string name="th_m_v_o_gi_h_ng">Thêm vào giỏ hàng</string>
+    <string name="ng_nh_p">Đăng nhập</string>
+    <string name="dialog_start_game">Hình như có nhầm lẫn rồi!!!</string>
+    <string name="start">Đi tới trang chủ</string>
+    <string name="cancel">Tiếp tục đăng nhập</string>
+</resources>
